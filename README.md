@@ -1,7 +1,7 @@
 # grommet-email
 Produce grommet styled HTML for use in email contexts.
 
-[![Build Status](https://api.travis-ci.org/grommet/grommet-email.svg)](https://travis-ci.org/grommet/grommet-email)
+[![Build Status](https://api.travis-ci.org/grommet/grommet-email.svg)](https://travis-ci.org/grommet/grommet-email) [![Dependency Status](https://david-dm.org/grommet/grommet-email.svg)](https://david-dm.org/grommet/grommet-email)  [![devDependency Status](https://david-dm.org/grommet/grommet-email/dev-status.svg)](https://david-dm.org/grommet/grommet-email#info=devDependencies) 
 
 ## Install
 
