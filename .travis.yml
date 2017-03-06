@@ -6,10 +6,7 @@ cache:
   directories:
   - node_modules
 script:
-- |
-  if [ "$TEST_TYPE" = build ]; then
-    npm test
-  fi
+- npm test
 after_success:
 - |
   if [ "$TEST_TYPE" = build ]; then
