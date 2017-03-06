@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Email has correct default options 1`] = `
+<html
+  lang="en-US"
+>
+  <head>
+    <style
+      type="text/css"
+    />
+  </head>
+  <body
+    style={
+      Object {
+        "color": "#666",
+        "fontFamily": "Metric, Arial, sans-serif",
+        "fontSize": undefined,
+        "lineHeight": 24,
+      }
+    }
+  >
+    Testing
+  </body>
+</html>
+`;

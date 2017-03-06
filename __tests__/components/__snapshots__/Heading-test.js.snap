@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Heading has correct default options 1`] = `
+<h1
+  style={
+    Object {
+      "fontWeight": 100,
+      "margin": "24px 12px",
+    }
+  }
+>
+  Testing
+</h1>
+`;

@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Paragraph has correct default options 1`] = `
+<p
+  style={
+    Object {
+      "color": "#666",
+      "margin": "24px 12px",
+    }
+  }
+>
+  Testing
+</p>
+`;
