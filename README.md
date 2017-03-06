@@ -1,6 +1,8 @@
 # grommet-email
 Produce grommet styled HTML for use in email contexts.
 
+[![Build Status](https://api.travis-ci.org/grommet/grommet-email.svg)](https://travis-ci.org/grommet/grommet-email)
+
 ## Install
 
 ```
